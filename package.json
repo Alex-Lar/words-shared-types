@@ -1,7 +1,7 @@
 {
   "name": "@alex-lar/words-shared-types",
   "version": "1.0.0",
-  "description": "Shared types between Words projects",
+  "description": "Shared types between Words packages",
   "source": "src/index.ts",
   "main": "dist/main.js",
   "module": "dist/module.js",
