@@ -1,0 +1,23 @@
+{
+  "name": "words-shared-types",
+  "version": "0.0.1",
+  "source": "src/index.ts",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "types": "dist/types.d.ts",
+  "isLibrary": true,
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "Alexander Larin",
+  "license": "ISC",
+  "description": "Shared types between Words projects",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "typescript": "^5.7.2"
+  }
+}
