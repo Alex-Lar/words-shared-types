@@ -17,5 +17,5 @@
     "strictFunctionTypes": true,
     "skipLibCheck": true,
     "declaration": true
-  },
+  }
 }
