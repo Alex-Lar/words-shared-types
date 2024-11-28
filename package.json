@@ -1,5 +1,5 @@
 {
-  "name": "words-shared-types",
+  "name": "@alex-lar/words-shared-types",
   "version": "0.0.1",
   "source": "src/index.ts",
   "main": "dist/main.js",
