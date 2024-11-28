@@ -14,9 +14,12 @@
     "types"
   ],
   "author": "Alexander Larin",
+  "git repository": "https://github.com/Alex-Lar/words-shared-types",
   "license": "ISC",
   "description": "Shared types between Words projects",
   "devDependencies": {
+    "@parcel/packager-ts": "^2.13.2",
+    "@parcel/transformer-typescript-types": "^2.13.2",
     "parcel": "^2.13.2",
     "typescript": "^5.7.2"
   }
