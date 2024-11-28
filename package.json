@@ -9,7 +9,8 @@
   "isLibrary": true,
   "scripts": {
     "watch": "parcel watch",
-    "build": "parcel build"
+    "build": "parcel build",
+    "format": "prettier --write ."
   },
   "keywords": [
     "types"
