@@ -6,23 +6,14 @@
  * @interface WordsMap
  */
 export interface WordsMap {
-  [key: number]: TypedWord[]
+  [key: number]: Word[]
 }
 
 /**
- * Represents a word
+ * Represents a word object
  *
  * @interface Word
  */
 export interface Word {
   name: string
-}
-
-/**
- * Represents a word with a type
- *
- * @interface TypedWord
- */
-export interface TypedWord extends Word {
-  type: number
 }
